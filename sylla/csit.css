@@ -1,0 +1,46 @@
+
+body
+{
+    background-image: url(back.webp);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+h1
+{
+text-align: center;
+color: rgba(130, 7, 245, 0.966);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#firstp
+{
+    color: rgba(255, 255, 255, 0.966);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+h3
+{
+    text-align: center;
+    color: rgba(123, 17, 222, 0.966);
+
+}
+li{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+
+div{
+    margin: auto;
+}
+#subj{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(119, 38, 196, 0.966);
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
